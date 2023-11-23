@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS pitch_db;
+CREATE DATABASE pitch_db;
