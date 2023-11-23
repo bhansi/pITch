@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": 1,
+    "title": "Big Data is the Buzz",
+    "content": "Big Data is revolutionizing industries with its vast volume, high velocity, and diverse variety of information. From personalizing customer experiences to improving healthcare and optimizing city infrastructures, its impact is profound. However, managing its growth while addressing privacy and ethical concerns remains crucial for its continued positive influence."
+  },
+  {
+    "user_id": 1,
+    "title": "The Cyber Security Paradox",
+    "content": "In an interconnected world, cyber threats loom large despite advanced security measures. The paradox lies in the constant battle between innovation and protection. As technology advances, so do risks. Balancing innovation's pace with robust security measures becomes imperative for a resilient digital landscape."
+  },
+  {
+    "user_id": 2,
+    "title": "Java is not Related to JavaScript",
+    "content": "Despite the similar names, Java and JavaScript are distinct. Java is a versatile programming language, while JavaScript is primarily used for web development. Understanding their differences prevents confusion in the tech world."
+  },
+  {
+    "user_id": 3,
+    "title": "I'm new here",
+    "content": "I'm new to the tech world and I'd like to get started by learning how to make websites. Does anyone have any helpful resources on where to start and what to learn?"
+  }
+]
