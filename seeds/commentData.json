@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": 1,
+    "post_id": 2,
+    "content": "I couldn't agree more. Technology advances as such a blistering pace that security always has such a tough time keeping up."
+  },
+  {
+    "user_id": 2,
+    "post_id": 1,
+    "content": "The concerns about privacy and ethics are valid, which is why cyber security is necessary in all branches of the tech world."
+  },
+  {
+    "user_id": 3,
+    "post_id": 1,
+    "content": "Just as Big Data is revolutionizing, it's also ever evolving, and quickly at that. Big Data technologies are coming and going faster and faster every day."
+  }
+]
