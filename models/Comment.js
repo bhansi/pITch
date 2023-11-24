@@ -28,7 +28,7 @@ Comment.init(
       }
     },
     content: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT  ,
       allowNull: false
     },
     date_created: {
